@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(585): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(587): warning C4244: 'initializing': conversion from 'double' to 'std::size_t', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(595): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(596): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(601): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(640): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(644): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(648): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hp pc\desktop\himanshu\codes\lab5\source.cpp(793): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Lab5.vcxproj -> C:\Users\hp pc\Desktop\Himanshu\codes\Lab5\x64\Debug\Lab5.exe
+  Lab5.vcxproj -> C:\Users\hp pc\Desktop\Himanshu\codes\Lab5\x64\Debug\Lab5.pdb (Partial PDB)
